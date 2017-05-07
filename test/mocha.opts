@@ -1,0 +1,7 @@
+--bail
+--check-leaks
+--reporter progress
+--colors
+--recursive
+--inline-diffs
+ --perf-basic-prof
